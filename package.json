@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@web3-storage/w3up-client": "^15.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1",
+    "files-from-path": "^1.0.4",
+    "minimist": "^1.2.8",
+    "web3.storage": "^4.5.5"
+  }
+}
